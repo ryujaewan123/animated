@@ -1,0 +1,10 @@
+{
+  "name": "@ryujaewan/animated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
